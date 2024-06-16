@@ -4,7 +4,7 @@
   "description": "This repository contains a simple Next.js project showcasing a basic \"Hello Stph's\" page. It's a great starting point for those new to Next.js or for developers looking to experiment with its features.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "keywords": [],
   "author": "ImSMA / Shoket Mahmood Ahmed",
