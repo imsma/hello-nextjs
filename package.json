@@ -1,0 +1,17 @@
+{
+  "name": "hello-nextjs",
+  "version": "1.0.0",
+  "description": "This repository contains a simple Next.js project showcasing a basic \"Hello Stph's\" page. It's a great starting point for those new to Next.js or for developers looking to experiment with its features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ImSMA / Shoket Mahmood Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
