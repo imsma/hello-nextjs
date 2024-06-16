@@ -1,0 +1,13 @@
+"use client";
+
+import { useState } from "react";
+
+export default function LikeButton() {
+  const [likes, setLikes] = useState(0);
+
+  function handleClick() {
+    setLikes((l) => l + 1);
+  }
+
+  return <button onClick={handleClick}>Like ({likes})</button>;
+}
